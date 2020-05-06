@@ -1,5 +1,5 @@
 import datetime
-print("Здраствуй")
+print("Здравствуй")
 name = input("Стой куда ты? Ну ты и соня, как тебя зовут?: ")
 name = name.strip()
 print("Что это за имя такое? " + name.title() + " Ну хорошо")
